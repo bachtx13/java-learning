@@ -1,0 +1,1 @@
+Student{fullname=A, gender=Nam, address=Ha Noi, rollno=R001, age=18}Student{fullname=B, gender=Nữ, address=Ha Noi, rollno=R002, age=10}Student{fullname=C, gender=Nam, address=Thai Binh, rollno=R003, age=12}Student{fullname=D, gender=Nữ, address=Ha Noi, rollno=R004, age=19}Student{fullname=E, gender=Nam, address=HCM, rollno=R005, age=22}

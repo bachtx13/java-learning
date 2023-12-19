@@ -1,0 +1,5 @@
+
+1,1,1,1,1
+
+2,3,2,2,2
+Book{bookName=ha, authorName=ha, producer=ha, price=2, produceDate=2}Book{bookName=phat, authorName=phat, producer=phat, price=3, produceDate=3}

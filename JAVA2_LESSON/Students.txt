@@ -1,0 +1,10 @@
+
+A,Nam,Ha Noi,R001,20
+
+B,Nữ,Ha Noi,R002,10
+
+C,Nam,Thai Binh,R003,12
+
+D,Nữ,Ha Noi,R004,19
+
+E,Nam,HCM,R005,22
